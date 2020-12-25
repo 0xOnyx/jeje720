@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning c++
 
 
-- 📫 How to reach me: jeremy.best
+- 📫 How to reach me: info@jeremy.best
 - 😄 Pronouns: jeje720
 - ⚡ Fun fact: i learn for my hoby
 
