@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on big project 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning C
 
 
 - 📫 How to reach me: info@jeremy.best
